@@ -199,10 +199,9 @@ BI dashboard.
 
 ## Author
 
-**\[Your Name\]**\
+**\[Abhinav Raj]**\
 MBA in Financial Technology \| Pondicherry University
 
-Add your LinkedIn profile and GitHub profile links here when ready.
 
 ------------------------------------------------------------------------
 
